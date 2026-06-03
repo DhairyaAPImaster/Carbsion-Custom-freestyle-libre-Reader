@@ -1,6 +1,7 @@
 # *Carbsion*
 
-<img src="blob:chrome-untrusted://media-app/8a90fc65-bd6d-4d4b-b92b-9632831275cb" alt="Carbsion Banner.png"/>
+
+<img width="1584" height="672" alt="Carbsion Banner" src="https://github.com/user-attachments/assets/67661e50-5f1e-43cb-9ddb-9bfc348443cb" />
 
 
 
