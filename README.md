@@ -1,4 +1,3 @@
-# *Carbsion*
 
 
 <img width="1584" height="672" alt="Carbsion Banner" src="https://github.com/user-attachments/assets/67661e50-5f1e-43cb-9ddb-9bfc348443cb" />
