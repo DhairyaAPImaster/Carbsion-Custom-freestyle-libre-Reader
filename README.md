@@ -33,14 +33,17 @@ The unique thing about this is that its not JUST a reader it is instead also int
 **CAD AND PCB**
 `src/` - source files for PCB and CAD
 - `src/easyeda/` - EasyEDA source files
-- `src/cad/` - mechanical CAD sources
+- `src/freeCAD/` - mechanical CAD sources
 `production/` - **for fabrication outputs**
 - `production/pcb/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
 - `production/cad/` - 3D printing files
 `pics/` - images used in the README and documentation
-`Electronic cad/` - 3d model of PCB from EasyEDA 
+`Electronic cad/` - 3d model o<img width="476" height="343" alt="Screenshot 2026-06-14 141355" src="https://github.com/user-attachments/assets/06b8ed4f-dc03-4728-9973-d45c1f21ca02" />
+<img width="548" height="265" alt="Screenshot 2026-06-14 141442" src="https://github.com/user-attachments/assets/74c0d2ed-efec-4d4f-88a5-58c0cc9682ca" />
+<img width="465" height="345" alt="Screenshot 2026-06-14 141429" src="https://github.com/user-attachments/assets/324dfb1f-27b7-4bec-a7b6-5c113d3fb432" />
+f PCB from EasyEDA 
 
-**SOFTWARE**
+**SOFTWARE (will write all the software after finishing building the hardware part)**
 `firmware/` - All the code files
 - `firmware/carb_scan/` - The code for the AI carb scanner
 - `firmware/carb_scan/Testing/` - The micro python code files to test first
@@ -51,24 +54,34 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 
 ## Schematic
+<img width="548" height="265" alt="Screenshot 2026-06-14 141442" src="https://github.com/user-attachments/assets/a78b906e-2a16-445e-a780-e45d5d2ba151" />
+<img width="465" height="345" alt="Screenshot 2026-06-14 141429" src="https://github.com/user-attachments/assets/de16d55e-e8d8-45fb-ba95-94ac5ca546db" />
+<img width="306" height="349" alt="Screenshot 2026-06-14 141416" src="https://github.com/user-attachments/assets/dee15d79-7191-4477-b853-aec0ce2aeb90" />
+<img width="249" height="284" alt="Screenshot 2026-06-14 141403" src="https://github.com/user-attachments/assets/ad4fbc83-e5dd-4790-bd91-9f85816b2ead" />
+<img width="476" height="343" alt="Screenshot 2026-06-14 141355" src="https://github.com/user-attachments/assets/5fade892-4339-4fb1-973f-8283ac2216a3" />
 
 
 
 
 ## PCB 
+<img width="269" height="337" alt="Screenshot 2026-06-14 141643" src="https://github.com/user-attachments/assets/88db0df7-ef49-4ca0-9ced-ef729b915cbc" />
+<img width="302" height="250" alt="Screenshot 2026-06-14 141908" src="https://github.com/user-attachments/assets/4d80661c-97b6-40b9-9dbf-422937f5f667" />
+<img width="313" height="358" alt="Screenshot 2026-06-14 141852" src="https://github.com/user-attachments/assets/037b4ccc-818a-44d0-936f-6dc9ee5172a2" />
+<img width="233" height="309" alt="Screenshot 2026-06-14 141830" src="https://github.com/user-attachments/assets/83b48f5b-7615-43aa-adf4-c0d033efc01a" />
+<img width="472" height="328" alt="Screenshot 2026-06-14 141745" src="https://github.com/user-attachments/assets/3374b5d0-a9b5-4070-b365-e42ae237424f" />
+<img width="565" height="309" alt="Screenshot 2026-06-14 141714" src="https://github.com/user-attachments/assets/f5992e0b-23fb-4219-a5fa-45557988c0ce" />
+<img width="402" height="323" alt="Screenshot 2026-06-14 141703" src="https://github.com/user-attachments/assets/7923a9b2-376b-470f-919c-0902493c0b47" />
 
 
 
 
 
 ## CAD
-
-
-
-
-
-- ***Required 3d Printed parts***
-
+<img width="1762" height="992" alt="Screenshot 2026-05-29 164434" src="https://github.com/user-attachments/assets/c2489ea5-795e-46bb-98ff-60e4165b13d3" />
+<img width="1919" height="1079" alt="Screenshot 2026-05-29 164319" src="https://github.com/user-attachments/assets/529dc611-1e92-4ae5-ab7b-70720c46d506" />
+<img width="1028" height="715" alt="Screenshot 2026-05-29 164305" src="https://github.com/user-attachments/assets/f4ab60ca-eb00-4f5f-bcaa-565c7b3f07cb" />
+<img width="870" height="760" alt="Screenshot 2026-05-29 160254" src="https://github.com/user-attachments/assets/4a455665-f802-4d28-9974-7593a3a9e01d" />
+<img width="857" height="775" alt="Screenshot 2026-05-29 164550" src="https://github.com/user-attachments/assets/631a6b1c-5927-42fc-a986-672ae1a08c07" />
 
 
 
