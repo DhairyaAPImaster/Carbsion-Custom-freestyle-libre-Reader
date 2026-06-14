@@ -38,10 +38,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 - `production/pcb/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
 - `production/cad/` - 3D printing files
 `pics/` - images used in the README and documentation
-`Electronic cad/` - 3d model o<img width="476" height="343" alt="Screenshot 2026-06-14 141355" src="https://github.com/user-attachments/assets/06b8ed4f-dc03-4728-9973-d45c1f21ca02" />
-<img width="548" height="265" alt="Screenshot 2026-06-14 141442" src="https://github.com/user-attachments/assets/74c0d2ed-efec-4d4f-88a5-58c0cc9682ca" />
-<img width="465" height="345" alt="Screenshot 2026-06-14 141429" src="https://github.com/user-attachments/assets/324dfb1f-27b7-4bec-a7b6-5c113d3fb432" />
-f PCB from EasyEDA 
+`Electronic cad/` - 3d model of PCB from EasyEDA 
 
 **SOFTWARE (will write all the software after finishing building the hardware part)**
 `firmware/` - All the code files
