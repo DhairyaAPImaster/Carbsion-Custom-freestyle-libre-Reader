@@ -53,6 +53,9 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 `Electronic cad/` - 3d model of PCB from EasyEDA 
 
+
+`3d Models with electronics/` - 3d model of the case with pcb
+
 **SOFTWARE (will write all the software after finishing building the hardware part)**
 
 
