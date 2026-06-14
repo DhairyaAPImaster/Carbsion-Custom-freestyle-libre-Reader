@@ -32,22 +32,48 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 **CAD AND PCB**
 `src/` - source files for PCB and CAD
+
 - `src/easyeda/` - EasyEDA source files
+
+
 - `src/freeCAD/` - mechanical CAD sources
+
+
 `production/` - **for fabrication outputs**
+
+
 - `production/pcb/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
+
+
 - `production/cad/` - 3D printing files
+
+
 `pics/` - images used in the README and documentation
+
+
 `Electronic cad/` - 3d model of PCB from EasyEDA 
 
 **SOFTWARE (will write all the software after finishing building the hardware part)**
 `firmware/` - All the code files
+
+
 - `firmware/carb_scan/` - The code for the AI carb scanner
+
+
 - `firmware/carb_scan/Testing/` - The micro python code files to test first
+
+
 - `firmware/carb_scan/C++/` - Main C++ code files to run the main software. ***Note- I have not made any files in this rn as i have to learn C++ and will make the files after testing with micropython***
+
+
 - `firmware/scan/` - Code files for the scanning part
+
+
 - `firmware/scan/main/` - Main basic files to scan and recieve data from the sensor (non decrypted data)
+
+
 - `firmware/scan/decrypt/` - Decryption code for the encrypted data  
+
 
 
 ## Schematic
