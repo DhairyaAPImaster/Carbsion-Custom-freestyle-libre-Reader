@@ -7,6 +7,8 @@
 ### by Dhairya
 
 
+***Note for reviwer ---> after submiting for review i realised that the USB C traces were not differential pairs so well while this was in review i changed them to be differential pairs (Pic at end)***
+
 ## About Carbsion
 
 **Carbsion is a project i have been working on it is a custom built reader for scanning the freestyle libre 1 sensors to read the blood glucose readings.
@@ -52,6 +54,9 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 
 `Electronic cad/` - 3d model of PCB from EasyEDA 
+
+
+`3d Models with electronics/` - 3d model of the case with pcb
 
 **SOFTWARE (will write all the software after finishing building the hardware part)**
 
@@ -132,3 +137,13 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - ***FreeCAD*** - For designing the Case
 - ***JLCPCB*** - Will be using to manufacture the PCB
 - **[APX HUB by @Gabouin](https://github.com/Gabouin/APX-USB-HUB)** - Readme template
+
+
+
+
+
+
+### Differential Pair update Pic - 
+
+<img width="650" height="427" alt="image" src="https://github.com/user-attachments/assets/16595d78-9198-4cd2-bbad-7260fa8856c8" />
+
