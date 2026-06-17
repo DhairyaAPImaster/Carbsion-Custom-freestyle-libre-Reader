@@ -120,7 +120,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 ## BOM- Bill Of Materials
 
 <details>
-<summary> Bill of Materials (BOM) **(btw this is a collapsible BOM this is my first readme that has a collapsable BOM its pretty cool) **</summary>
+<summary> Bill of Materials (BOM) **(btw this is a collapsible BOM this is my first readme that has a collapsable BOM its pretty cool)** </summary>
 
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
 |------:|-----------:|:-------------------------------|:------------------------------|:---------------------------------------|:--------|:-------------------------------|:-------------------|:----------------|:-----------|
