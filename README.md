@@ -1,6 +1,7 @@
 
 
-<img width="1584" height="672" alt="Carbsion Banner" src="https://github.com/user-attachments/assets/67661e50-5f1e-43cb-9ddb-9bfc348443cb" />
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/21226fef-1388-4fb1-8194-61569ccf21fc" />
+
 
 
 # Carbsion
