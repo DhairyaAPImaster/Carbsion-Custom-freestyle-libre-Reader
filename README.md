@@ -8,6 +8,19 @@
 ### by Dhairya
 
 
+***Viewing Links--->***
+
+***EASY EDA VIEW LINK (got from OSHW Lab) --->  
+https://pro.easyeda.com/editor#id=53606adbf2524134a1bd79dfdb3195bb***
+
+
+
+***OSHW Lab Project Homepage Link VIEW LINK ---> 
+https://oshwlab.com/dhairyak/project_lsiedtbk***
+
+
+
+
 ***Note for reviwer ---> after submiting for review i realised that the USB C traces were not differential pairs so well while this was in review i changed them to be differential pairs (Pic at end)***
 
 ## About Carbsion
