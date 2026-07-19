@@ -77,16 +77,14 @@ The unique thing about this is that its not JUST a reader it is instead also int
 - `firmware/carb_scan/` - The code for the AI carb scanner
 
 
-- `firmware/carb_scan/C++/` - Main C++ code files to run the main software. 
+- `firmware/carb_scan/C++` - parent folder for the C++ code
 
 
-- `firmware/scan/` - Code files for the scanning part
+- `firmware/carb_scan/src` - main source .cpp files
 
 
-- `firmware/scan/main/` - Main basic files to scan and recieve data from the sensor (non decrypted data)
+- `firmware/carb_scan/include` - config.h and libre.h files
 
-
-- `firmware/scan/decrypt/` - Decryption code for the encrypted data  
 
 
 
