@@ -67,7 +67,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 `pics/` - images used in the README and documentation
 
 
-**SOFTWARE (will write all the software after finishing building the hardware part)**
+**SOFTWARE**
 
 
 
@@ -77,10 +77,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 - `firmware/carb_scan/` - The code for the AI carb scanner
 
 
-- `firmware/carb_scan/Testing/` - The micro python code files to test first
-
-
-- `firmware/carb_scan/C++/` - Main C++ code files to run the main software. ***Note- I have not made any files in this rn as i have to learn C++ and will make the files after testing with micropython***
+- `firmware/carb_scan/C++/` - Main C++ code files to run the main software. 
 
 
 - `firmware/scan/` - Code files for the scanning part
