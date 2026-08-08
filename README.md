@@ -123,8 +123,6 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 ## BOM- Bill Of Materials
 
-<details>
-<summary> Bill of Materials (BOM) **(btw this is a collapsible BOM this is my first readme that has a collapsable BOM its pretty cool)** </summary>
 | # | Product / Cost | Seller | Qty | Unit Price (USD) | Total (USD) | Link |
 |---:|---|---|---:|---:|---:|---|
 | 1 | **2.8" SPI Touch Screen Module TFT Interface 240×320** | Robu.in | 1 | **$8.38** | **$8.38** | [Robu.in](https://robu.in/product/2-8-inch-spi-touch-screen-module-tft-interface-240320/?utm_source=chatgpt.com) |
@@ -141,7 +139,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 ### Cost Breakdown
 
 **$8.38 + $20.69 + $1.04 + $9.44 + $3.41 + $7.00 + $51.90 + $8.98 + $33.94 = $144.78 USD**
-</details>
+
 
 
 ## License 
