@@ -125,29 +125,22 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 <details>
 <summary> Bill of Materials (BOM) **(btw this is a collapsible BOM this is my first readme that has a collapsable BOM its pretty cool)** </summary>
+| # | Product / Cost | Seller | Qty | Unit Price (USD) | Total (USD) | Link |
+|---:|---|---|---:|---:|---:|---|
+| 1 | **2.8" SPI Touch Screen Module TFT Interface 240×320** | Robu.in | 1 | **$8.38** | **$8.38** | [Robu.in](https://robu.in/product/2-8-inch-spi-touch-screen-module-tft-interface-240320/?utm_source=chatgpt.com) |
+| 2 | **PN5180 NFC RF Sensor Module, ISO15693 RFID, ICODE2** | Amazon.in | 1 | **$20.69** | **$20.69** | [Amazon.in](https://www.amazon.in/gp/product/B09G2KXPRL/ref=ox_sc_act_title_1?smid=AZU3LIF9T5UMI&psc=1) |
+| 3 | **40-Pin 2.54mm Male + Female Berg Strip Connector — Pair of 5** | Amazon.in | 1 | **$1.04** | **$1.04** | [Amazon.in](https://www.amazon.in/gp/product/B0DNMD4THF/ref=ox_sc_act_title_2?smid=A366YFPXO3CTI5&psc=1) |
+| 4 | **OV2640 200W Pixel Wide Angle Camera** | FlyRobo | 1 | **$9.44** | **$9.44** | [FlyRobo](https://www.flyrobo.in/ov2640-200w-pixel-wide-angle-camera?utm_source=chatgpt.com) |
+| 5 | **ESP32-S3-WROOM-1-N16R8 Wi-Fi/BLE Module, 16MB Flash, PCB Antenna** | Evelta | 1 | **$3.41** | **$3.41** | [Evelta](https://evelta.com/esp32-s3-wroom-1-n16r8-wi-fi-ble-module-transceiver-16mb-flash-pcb-antenna/?utm_source=chatgpt.com) |
+| 6 | **Carbsion gerbers_Y32 — PCB** | JLCPCB | 5 | **$1.40** | **$7.00** | [JLCPCB](https://jlcpcb.com/) |
+| 7 | **Carbsion gerbers_Y32 — Economic PCBA, Bottom-Side SMT Assembly** | JLCPCB | 5 | **$10.38** | **$51.90** | [JLCPCB](https://jlcpcb.com/) |
+| 8 | **JLCPCB Shipping** | JLCPCB | 1 | **$8.98** | **$8.98** | [JLCPCB](https://jlcpcb.com/) |
+| 9 | **Tax** | — | 1 | **$33.94** | **$33.94** | — |
+| | | | | **GRAND TOTAL** | **$144.78** | |
 
-| No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
-|------:|-----------:|:-------------------------------|:------------------------------|:---------------------------------------|:--------|:-------------------------------|:-------------------|:----------------|:-----------|
-| 1 | 1 | AMS1117-3.3 | AMS1117-3.3 | SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR | | AMS1117-3.3 | YONGYUTAI(永裕泰) | C2891839 | LCSC |
-| 2 | 6 | 100nF | C1,C2,C5,C6,C7,C9 | C0603 | 100nF | | | | |
-| 3 | 2 | 10µF | C3,C4 | C0603 | 10µF | | | | |
-| 4 | 1 | 10uF | C10 | C0603 | 10uF | | | | |
-| 5 | 1 | CH340E | CH340E | MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL | | CH340E | WCH(南京沁恒) | C99652 | LCSC |
-| 6 | 1 | 2.54-2P WZDK-R Pitch Connector | CN1 | CONN-TH_2.54-2P-WZDK-R-PITCH-CONNECTOR | | 2.54-2P WZDK-R Pitch Connector | SHOU HAN(首韩) | C49023803 | LCSC |
-| 7 | 2 | 1N4007 | D1,D2 | SMA_L4.4-W2.8-LS5.4-RD | | | | C727081 | |
-| 8 | 1 | 2.4GHz | ESP32_S3_WROOM32_1 | WIFIM-SMD_ESP32-S3-WROOM-1-N8 | 2.4GHz | ESP32-S3-WROOM-1-N4 | ESPRESSIF(乐鑫) | C2913197 | LCSC |
-| 9 | 1 | 0.5-24P翻盖 | FFC_CONN | FPC-SMD_24P-P0.50_C2835077 | | 0.5-24P翻盖 | BOOMELE(博穆精密) | C3010047 | LCSC |
-| 10 | 1 | Conn_01_13 | PN5180_NFC | HDR-TH_13P-P2.54-V-M | | Conn_01_13 | HCTL(华灿天禄) | C2894936 | LCSC |
-| 11 | 2 | 5.1K | R1,R2 | R0603 | 5.1K | | | | |
-| 12 | 8 | 10K | R3,R7,R10,R11,R12,R13,R14,R15 | R0603 | 10K | | | | |
-| 13 | 1 | 2K | R4 | R0603 | 2K | | | | |
-| 14 | 2 | 1K | R5,R6 | R0603 | 1K | | | | |
-| 15 | 2 | 22Ω | R8,R9 | R0603 | 22Ω | | | | |
-| 16 | 6 | HC-QC6660-C-R | SW1,SW2,SW3,SW4,SW5,SW6 | SW-TH_4P-L6.0-W6.0-P4.50-LS6.5-1 | | HC-QC6660-C-R | HC(虹成电子) | C55014072 | LCSC |
-| 17 | 1 | TFT DISPLAY PINS LEFT | TFTDISPLAYLEFT | CONN-TH_4P-P3.50_KF332J-3.5-4P | | TFT DISPLAY PINS LEFT | KEFA(科发) | C19711763 | LCSC |
-| 18 | 1 | PZ254V-11-14P | TFTDISPLAYRIGHT | CONN-TH_PZ254V-11-14P | | PZ254V-11-14P | XFCN(兴飞) | C22465874 | LCSC |
-| 19 | 1 | TP4056 | TP4056 | ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP3.1 | | TP4056 | GOODWORK(固得沃克) | C21713961 | LCSC |
-| 20 | 1 | TYPE-C-16PIN | TPY-C-16-PIN | USB-C-SMD_TYPE-C16PIN-SHOUHAN | | TYPE-C-16PIN | JXTCONN(聚兴泰) | C53207801 | LCSC |
+### Cost Breakdown
+
+**$8.38 + $20.69 + $1.04 + $9.44 + $3.41 + $7.00 + $51.90 + $8.98 + $33.94 = $144.78 USD**
 </details>
 
 
