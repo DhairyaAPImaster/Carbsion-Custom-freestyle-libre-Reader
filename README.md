@@ -21,7 +21,7 @@ https://oshwlab.com/dhairyak/project_lsiedtbk***
 
 
 
-***Note for reviwer ---> after submiting for review i realised that the USB C traces were not differential pairs so well while this was in review i changed them to be differential pairs (Pic at end)***
+***Note for reviwer ---> after submiting for review i realised that the USB C traces were not differential pairs so well while this was in review i changed them to be differential pairs (Pic at end) Also btw i had to log 0.1 hrs on 3 devlogs even though they should have been 0 hours since otherwise the pre submission check on forgewas failing. yea so ple just wanted to let you know so that you can reduce 0.3 hours due to those 3 0.1hrs. Thanks.***
 
 ## About Carbsion
 
