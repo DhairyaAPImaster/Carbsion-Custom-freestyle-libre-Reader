@@ -72,13 +72,10 @@ The unique thing about this is that its not JUST a reader it is instead also int
 `pics/` - images used in the README and documentation
 
 
-<<<<<<< HEAD
+
 **SOFTWARE--->**
-=======
+
 **SOFTWARE**
->>>>>>> 6476c125080a0bf5cfd4869ae16c36255a9225c2
-
-
 
 `firmware/` - All the code files
 
@@ -86,7 +83,6 @@ The unique thing about this is that its not JUST a reader it is instead also int
 - `firmware/carb_scan/` - The code for the AI carb scanner
 
 
-<<<<<<< HEAD
 - `firmware/carb_scan/C++/` - Main C++ code files to run the main software. 
 =======
 - `firmware/carb_scan/C++` - parent folder for the C++ code
@@ -97,7 +93,7 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 - `firmware/carb_scan/include` - config.h and libre.h files
 
->>>>>>> 6476c125080a0bf5cfd4869ae16c36255a9225c2
+
 
 
 
