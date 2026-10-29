@@ -20,6 +20,9 @@ https://oshwlab.com/dhairyak/project_lsiedtbk***
 
 
 
+***VERY VERY Important:*** Carbsion is a DIY prototype and is not a medically validated device. Always verify glucose readings and treatment decisions using your prescribed monitoring equipment and diabetes care plan. The maker of this project (me, Dhairya) am not responsible for anything that happens if you decide to use it without validation. Please check with your doctor first and verify the readings. (this unlike proffesional medical readers has not undergone any human testing mainly cause i havent made it rn)
+
+
 
 ***Note for reviwer ---> after submiting for review i realised that the USB C traces were not differential pairs so well while this was in review i changed them to be differential pairs (Pic at end) Also btw i had to log 0.1 hrs on 3 devlogs even though they should have been 0 hours since otherwise the pre submission check on forgewas failing. yea so ple just wanted to let you know so that you can reduce 0.3 hours due to those 3 0.1hrs. Thanks.***
 
