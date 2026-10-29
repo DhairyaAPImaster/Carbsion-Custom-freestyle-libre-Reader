@@ -20,7 +20,6 @@ https://oshwlab.com/dhairyak/project_lsiedtbk***
 
 
 
-***VERY VERY Important:*** Carbsion is a DIY prototype and is not a medically validated device. Always verify glucose readings and treatment decisions using your prescribed monitoring equipment and diabetes care plan. The maker of this project (me, Dhairya) am not responsible for anything that happens if you decide to use it without validation. Please check with your doctor first and verify the readings. (this unlike proffesional medical readers has not undergone any human testing mainly cause i havent made it rn)
 
 
 
@@ -116,6 +115,9 @@ Step 6- Add your API key for the AI carb detection to work, and then re flash th
 
 Last Step !!!! ---> **TEST THE DEVICE AND BE HEALTHY!!!** BTW TO TEST IT PLEASE COMPARE THE READINGS FROM THIS WITH THE READINGS WITH THE OFFICIAL READER SINCE THE DECRYPTION IS TAKEN FROM THE OPEN SOURCE COMMUNITY AND IT ***MAY*** NOT SHOW THE EXACT READING **ONLY WORKS WITH FREESTYLE LIBRE 1**
 
+
+
+***VERY VERY Important:*** Carbsion is a DIY prototype and is not a medically validated device. Always verify glucose readings and treatment decisions using your prescribed monitoring equipment and diabetes care plan. The maker of this project (me, Dhairya) am not responsible for anything that happens if you decide to use it without validation. Please check with your doctor first and verify the readings. (this unlike proffesional medical readers has not undergone any human testing mainly cause i havent made it rn)
 
 
 ## Schematic
