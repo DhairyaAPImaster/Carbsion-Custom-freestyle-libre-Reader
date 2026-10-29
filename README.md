@@ -96,6 +96,24 @@ The unique thing about this is that its not JUST a reader it is instead also int
 
 
 
+## HOW TO RECREATE? 
+
+
+Step 1- Order the PCB's and 3d print the enclosure. U can find all the PCB gerbers and the CAD files in the `production` folder.
+
+Step 2 - After the PCB arrives, solder all the components according to the PCB layout. (See the `src` folder for the file`)
+
+Step 3 - Flash the firmware ->  Open the `firmware/carb_scan/C++/` folder and load the source code into your C++ dev environment check `include/config.h` and configure the required settings before compiling. Select the correct ESP32 board and COM port, then compile and upload the firmware over USB. (pretty starightforward process tbh not as complex as it sounds)
+
+Step 4 -Connect the modules (touchscreen, PN5180 NFC reader and OV2640 camera) to the PCB using the schematic and pin connections provided in the src` folder. Double-check the wiring and power connections before turning it on (since im pretty sure if u reached this stage u dont want everything ruined bcs of a short circuit)
+
+step5- Once the electronics are working, fit the PCB and modules into the 3D-printed enclosure (btw make sure the screen, cam and NFC reader are correctly placed in the enclosure.)
+
+Step 6- Add your API key for the AI carb detection to work, and then re flash the code (wait a sec i just realised u can do this before flashing it the first time too but yea doesnt really hurt to do it later) 
+
+Last Step !!!! ---> **TEST THE DEVICE AND BE HEALTHY!!!** BTW TO TEST IT PLEASE COMPARE THE READINGS FROM THIS WITH THE READINGS WITH THE OFFICIAL READER SINCE THE DECRYPTION IS TAKEN FROM THE OPEN SOURCE COMMUNITY AND IT ***MAY*** NOT SHOW THE EXACT READING **ONLY WORKS WITH FREESTYLE LIBRE 1**
+
+
 
 ## Schematic
 <img width="548" height="265" alt="Screenshot 2026-06-14 141442" src="https://github.com/user-attachments/assets/a78b906e-2a16-445e-a780-e45d5d2ba151" />
